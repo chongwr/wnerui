@@ -1,7 +1,7 @@
-nltk
-numpy
 streamlit
 pandas
 textblob
 xlrd
 openpyxl
+nltk
+numpy
